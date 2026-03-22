@@ -1,7 +1,7 @@
-KV₂Se₂/MgO/KVSe₂O 三层异质结构
+KV₂Se₂/MgO/KVSe₂O Trilayer Heterostructure
 
-参数化 MgO 层厚度，支持灵活调控
+Parametrized MgO layer thickness for flexible tunability
 
-提供标准 CIF 格式结构文件，便于材料计算与模拟
+Standard CIF format structure files for computational materials science and simulations
 
-包含论文图表中的原始数据，确保可复现性
+Includes raw data from figures in the paper to ensure reproducibility
